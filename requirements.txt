@@ -1,0 +1,11 @@
+flask
+pandas
+tempfile
+google-generativeai
+PyPDF2
+json
+xmltodict
+pydrive
+gspread
+google-auth
+python-pptx 
