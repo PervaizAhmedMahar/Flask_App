@@ -1,9 +1,7 @@
-flask
-pandas
-google-generativeai
-PyPDF2
-xmltodict
-pydrive
-gspread
-google-auth
-python-pptx 
+   flask
+   pandas
+   PyPDF2
+   python-pptx
+   gspread
+   pydrive
+   google-generativeai
